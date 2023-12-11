@@ -1,0 +1,2 @@
+los codigos fueron hechos en java usando visual code
+hay que abrir toda la carpeta para ver los codigos y ver que estos cumplen los test del enunciado
